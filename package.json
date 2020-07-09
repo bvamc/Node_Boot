@@ -1,0 +1,24 @@
+{
+  "name": "node_boot",
+  "version": "1.0.0",
+  "description": "Learning bootstrap - Web Front-end",
+  "main": "index.html",
+  "scripts": { 
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvamc/Node_Boot.git"
+  },
+  "author": "Vamsidhar Bada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvamc/Node_Boot/issues"
+  },
+  "homepage": "https://github.com/bvamc/Node_Boot#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
